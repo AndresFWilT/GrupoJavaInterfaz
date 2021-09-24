@@ -1,0 +1,3 @@
+Sergio Ramirez,123456,ssrs_10@hotmail.com,src/resources/Sergito.jpg
+Andres Wilches,987654,afwilchest@correo.udistrital.edu.co,src/resources/Wilchitos.jpg
+s,6,j,src/resources/usuario.jpg
